@@ -65,7 +65,7 @@ anisU.setregion(3, vector(0,0,1))
 
 alpha = 0.008
 
-m.loadfile("SHS_400_1.ovf")
+m.loadfile("400SHS.ovf")
 
 TableAdd(m_full)
 TableAdd(B_ext)

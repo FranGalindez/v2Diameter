@@ -64,7 +64,7 @@ Aex.setregion(3, ANi)
 Ku1.setregion(3, K1Ni)
 anisU.setregion(3, vector(0,0,1))
 
-m.loadfile("SHS_280_1.ovf")
+m.loadfile("280SHS.ovf")
 
 TableAdd(m_full)
 TableAdd(B_ext)

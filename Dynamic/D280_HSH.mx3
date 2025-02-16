@@ -65,7 +65,7 @@ Ku1.setregion(3, K1Co)
 anisU.setregion(3, vector(0,0,1))
 
 
-m.loadfile("HSH_280_1.ovf")
+m.loadfile("280HSH.ovf")
 
 TableAdd(m_full)
 TableAdd(B_ext)
